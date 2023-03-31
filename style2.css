@@ -1,0 +1,23 @@
+.bg-dark{
+    /* #343a40*/
+    /* background-color: #3f5468a0!important; */
+    /* offset: 0.5; */
+    /* opacity:0.5; */
+    background-color: rgb(42, 41, 41,0.8)!important;
+}
+nav .btn{
+    background: #000;
+    border-radius: 25%;
+}
+.btn{
+    margin-left: 2px;
+
+}
+.carousel-inner .btn{
+    border-radius: 15%;
+    padding: 8px;
+}
+.heading{
+  color: white;
+  font-weight: bold;
+}
